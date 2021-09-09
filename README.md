@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tosekk. I am from Kazakhstan.
+- 👀 I’m interested in FX creation, technical art and programming overall. Hobby-wise, I read a lot and I love learning new things.
+- 🌱 I’m currently learning basics of technical art and machine learning. Still got a long way to go.
+- 💞️ I’m looking to collaborate on CG and AI related projects.
+- 📫 You can reach me via email: zhandos.kadyrkulov@gmail.com
