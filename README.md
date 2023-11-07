@@ -4,5 +4,5 @@
 - Programming languages I code in: Python, Rust, TypeScript
 - I love creating systems that is why I love programming and procedural modeling. Creating FX in Houdini is fun as well.
 - I'm currently diving deeper into Rust programming language and Technical Art.
-- As a result, on my Instagram: [https://www.instagram.com](@qzr_td) I'm building a world from scratch.
+- As a result, on my Instagram: [@qzr_td](https://www.instagram.com/qzr_td) I'm building a world from scratch where I'm going to showcase my skills.
 - You can reach me via email: zhandos.kadyrkulov@gmail.com and LinkedIn.
