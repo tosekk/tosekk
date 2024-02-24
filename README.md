@@ -1,8 +1,7 @@
 - Hi, I’m @tosekk. I am from Kazakhstan.
 - I am a Technical Director and Tools Developer
 - CG Softwares that I use: Houdini, Blender, Unreal Engine, Unity, Substance Designer
-- Programming languages I code in: Python, Rust, TypeScript
+- Programming languages I code in: Python, Odin, Rust, TypeScript
 - I love creating systems that is why I love programming and procedural modeling. Creating FX in Houdini is fun as well.
-- I'm currently diving deeper into Rust programming language and Technical Art.
-- As a result, on my Instagram: [@qzr_td](https://www.instagram.com/qzr_td) I'm building a world from scratch where I'm going to showcase my skills.
+- I'm currently diving deeper into Odin, Rust programming languages and Technical Art.
 - You can reach me via email: zhandos.kadyrkulov@gmail.com and LinkedIn.
