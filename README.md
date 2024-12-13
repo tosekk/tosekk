@@ -1,7 +1,6 @@
-- Hi, I’m @tosekk. I am from Kazakhstan.
-- I am a Technical Director and Tools Developer
-- CG Softwares that I use: Houdini, Blender, Unreal Engine, Unity, Substance Designer
-- Programming languages I code in: Python, Odin, Rust, TypeScript
-- I love creating systems that is why I love programming and procedural modeling. Creating FX in Houdini is fun as well.
-- I'm currently diving deeper into Odin, Rust programming languages and Technical Art.
-- You can reach me via email: zhandos.kadyrkulov@gmail.com and LinkedIn.
+- Hi, My name is Zhandos but you can call me @tosekk. I am from Kazakhstan.
+- I am a Technical Director for CG guys, and software developer for others.
+- I primarily use SideFX Houdini and Blender that is why my main programming language is Python, though C/C++ are entering with baby steps into my life.
+- In addition to all of that, I am learning Odin programming language which got its place in my heart after the first code.
+- I love creating systems that is why I love programming and procedural modeling. Actually, everything is fun inside Houdini :)
+- You can reach me via email: zhandos.kadyrkulov@gmail.com and twitter.
